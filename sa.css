@@ -1,0 +1,30 @@
+h3 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+  border-style: dashed double
+}
+h3{
+  border-top-color: #408000;
+  border-right-color: #992600;
+  border-bottom-color: #408000;
+  border-left-color: #992600;
+}
+  body {
+    background-color: black;
+}
+.alps{
+  object-fit:cover;
+  height: 250px;
+  width: 250px;
+  margin: 10px;
+  border: 5px
+  padding: 10px;
+
+}
+  .alps{
+  border-radius: 10px;
+  border-color: #992600;
+  border-style: double;
+}
